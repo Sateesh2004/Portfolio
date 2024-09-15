@@ -24,7 +24,9 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <link rel="shortcut icon" href="/s.png" type="image/x-icon" />
+      <link rel="shortcut icon" href="/s.png" type="image/x-icon" />
+      <link rel="icon" href="/s.png" type="image/x-icon" />
+
       </head>
       <body
         className={clsx(
