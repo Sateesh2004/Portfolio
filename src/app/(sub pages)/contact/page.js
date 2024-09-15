@@ -25,7 +25,7 @@ export default function Contact() {
           <p className="text-center font-light text-sm xs:text-base">
           
 
-Thank you for visiting! If you're looking for a driven and capable professional, I'm eager to contribute my skills and experiences to a dynamic team. Whether it's discussing potential collaborations or exploring career opportunities, I believe I could be a strong fit for your organization. Please feel free to reach out through the form below, and I’ll look forward to the possibility of connecting with you.
+Thank you for visiting! If you&apos;re looking for a driven and capable professional, I&apos;m eager to contribute my skills and experiences to a dynamic team. Whether it&apos;s discussing potential collaborations or exploring career opportunities, I believe I could be a strong fit for your organization. Please feel free to reach out through the form below, and I&apos;ll look forward to the possibility of connecting with you.
 
 
           </p>

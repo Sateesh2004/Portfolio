@@ -1,7 +1,7 @@
 import React from "react";
 import ItemLayout from "./ItemLayout";
 import Link from "next/link";
-
+// import Image from "next/image";
 const AboutDetails = () => {
   return (
     <section className="py-20 w-full">
@@ -15,7 +15,7 @@ const AboutDetails = () => {
             Architect of Enchantment
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
-          I'm a passionate full-stack developer currently pursuing a Bachelor of Engineering in Computer Science from Chandigarh University. With hands-on experience in modern web technologies like Next.js, Express.js, React, and Django, I’ve built and optimized applications that directly improve user experience. During my internship at HedgeMyFunds, I boosted user engagement by 40% and streamlined performance using MongoDB, React Hooks, and responsive design. I've also created and deployed several projects, including a real-time video conferencing app, a social media platform, and a job portal, all designed to be scalable and user-friendly. With a solid foundation in data management and user authentication, I thrive on solving problems and delivering impactful web solutions.
+          I&apos;m a passionate full-stack developer currently pursuing a Bachelor of Engineering in Computer Science from Chandigarh University. With hands-on experience in modern web technologies like Next.js, Express.js, React, and Django, I&apos;ve built and optimized applications that directly improve user experience. During my internship at HedgeMyFunds, I boosted user engagement by 40% and streamlined performance using MongoDB, React Hooks, and responsive design. I&apos;ve also created and deployed several projects, including a real-time video conferencing app, a social media platform, and a job portal, all designed to be scalable and user-friendly. With a solid foundation in data management and user authentication, I thrive on solving problems and delivering impactful web solutions.
           </p>
         </ItemLayout>
 
@@ -62,6 +62,7 @@ const AboutDetails = () => {
             src={`https://skillicons.dev/icons?i=appwrite,aws,babel,bootstrap,cloudflare,css,d3,docker,figma,firebase,gatsby,git,github,graphql,html,ipfs,js,jquery,kubernetes,linux,mongodb,mysql,netlify,nextjs,nodejs,npm,postgres,react,redux,replit,sass,supabase,tailwind,threejs,vercel,vite,vscode,yarn`}
             alt="CodeBucks"
             loading="lazy"
+            
           />
         </ItemLayout>
 
