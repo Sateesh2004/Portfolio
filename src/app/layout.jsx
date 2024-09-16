@@ -17,7 +17,7 @@ export const metadata = {
       "Sateesh • Portfolio",
   },
   description:
-    "A unique creative portfolio designed by me.",
+    "A unique creative portfolio designed by Sateesh.",
 };
 
 export default function RootLayout({ children }) {
