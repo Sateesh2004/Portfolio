@@ -26,7 +26,7 @@ export default function RootLayout({ children }) {
       <head>
       <link rel="shortcut icon" href="/s.png" type="image/x-icon" />
       <link rel="icon" href="/s.png" type="image/x-icon" />
-
+      <meta name="google-site-verification" content="uRi_8KJdu6QPJgH35SYqn5Gl0c5TGuVl7SzAa_huf6k" />
       </head>
       <body
         className={clsx(
