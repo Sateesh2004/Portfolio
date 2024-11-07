@@ -19,25 +19,27 @@ Websites:
 export const projectsData = [
   {
     id: 1,
-    name: "Joom",
-    description: "Video Conferencing App",
-    date: "2024-04-15",
-    demoLink: "https://joom-lac.vercel.app/sign-in?redirect_url=https%3A%2F%2Fjoom-lac.vercel.app%2F",
+    name: "Interveu",
+    description: "AI enabled mock interview platform",
+    date: "2024-09-30",
+    demoLink: "https://inter-vue-glsv.vercel.app",
   },
   {
     id: 2,
-    name: "Teutter",
-    description: "Social Media App",
-    date: "2023-12-20",
-    demoLink: "https://github.com/Sateesh2004/Teutter",
+    name: "Joom",
+    description: "Video Conferencing App",
+    date: "2024-02-29",
+    demoLink: "https://joom-lac.vercel.app/sign-in?redirect_url=https%3A%2F%2Fjoom-lac.vercel.app%2F",
   },
+  
   {
     id: 3,
     name: "Talent-X",
     description: "Job Portal",
-    date: "2023-05-10",
+    date: "2023-11-30",
     demoLink: "https://sateesh2.pythonanywhere.com/",
   },
+  
   
 ];
 
@@ -58,12 +60,7 @@ export const BtnList = [
     icon: "linkedin",
     newTab: true,
   },
-  // {
-  //   label: "X",
-  //   link: "https://www.x.com/code_bucks",
-  //   icon: "twitter",
-  //   newTab: true,
-  // },
+  
   {
     label: "Resume",
     link: "/Resume.pdf",
