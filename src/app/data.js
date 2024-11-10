@@ -20,14 +20,14 @@ export const projectsData = [
   {
     id: 1,
     name: "Interveu",
-    description: "AI enabled mock interview platform",
+    description: " | AI enabled mock interview platform | Live Link",
     date: "2024-09-30",
     demoLink: "https://inter-vue-glsv.vercel.app",
   },
   {
     id: 2,
     name: "Joom",
-    description: "Video Conferencing App",
+    description: " | Video Conferencing App | Live Link",
     date: "2024-02-29",
     demoLink: "https://joom-lac.vercel.app/sign-in?redirect_url=https%3A%2F%2Fjoom-lac.vercel.app%2F",
   },
@@ -35,7 +35,7 @@ export const projectsData = [
   {
     id: 3,
     name: "Talent-X",
-    description: "Job Portal",
+    description: " | Job Portal | Live Link",
     date: "2023-11-30",
     demoLink: "https://sateesh2.pythonanywhere.com/",
   },
